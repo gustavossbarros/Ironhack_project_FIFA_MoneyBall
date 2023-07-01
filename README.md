@@ -25,7 +25,7 @@ The main objective of this project is to create a linear regression model to pre
   - Use metrics R2, RMSE and MAE;
   - Improve the model
 ### Bonus
-  - Find the better players for Náutico
+  - Find the best players for Náutico
     
 -----------------
 
